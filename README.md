@@ -1,4 +1,4 @@
-# Backchannel::Scheduler::Gem
+# ConferenceFetcher
 
 TODO: Write a gem description
 
