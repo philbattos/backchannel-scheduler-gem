@@ -5,7 +5,7 @@ require 'backchannel-scheduler-gem/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "backchannel-scheduler-gem"
-  gem.version       = Backchannel::Scheduler::Gem::VERSION
+  gem.version       = ConferenceFetcher::VERSION
   gem.authors       = ["Phil Battos"]
   gem.email         = ["philbattos@gmail.com"]
   gem.description   = %q{The backchannel-scheduler gem feeds conference data to the main backchannel app.}
